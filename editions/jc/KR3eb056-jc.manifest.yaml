@@ -1,0 +1,1636 @@
+canonical_identifier: bkk:krp/KR3eb056/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3eb056/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 辨舌指南
+  identifiers:
+    krp: KR3eb056
+  tags:
+    kr-categories: KR3eb
+    tls-dates: dat02200
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eb056.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3eb056_000-jc.yaml, hash: 'sha256:6a7b9ab5aa283c50ff4c979fc46624df0e1755c96ef42d7ff9651329b61bd5e9'}
+  - {seq: 1, filename: KR3eb056_001-jc.yaml, hash: 'sha256:5c989b21737a5adc5af1a4bc1e4c87e958f2edb93316b5fe6deda4b7353addd7'}
+  - {seq: 2, filename: KR3eb056_002-jc.yaml, hash: 'sha256:6b9c01b3e33b5c6f1e277a1093e59a157865ecbd4c77836b4f7403a3cc403969'}
+  - {seq: 3, filename: KR3eb056_003-jc.yaml, hash: 'sha256:398b7becc4646e25b69f3e4213db4378d0d48a636304826bef17e1fed0b9554f'}
+  - {seq: 4, filename: KR3eb056_004-jc.yaml, hash: 'sha256:b2702c354af4bbc7fdb2d61228fec83fafefb499ad72b9d91fb77f82ee4a2874'}
+  - {seq: 5, filename: KR3eb056_005-jc.yaml, hash: 'sha256:1f45ef48ed7038438edd68d424920de4b7abe0c9fef03970d8a9f6db4d7f8177'}
+  - {seq: 6, filename: KR3eb056_006-jc.yaml, hash: 'sha256:81eacb027ef077f44d1529fad8f4c4c10e6f1fd23c0d612ae54d0b500958cca6'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eb056_000-jc.markers.yaml, hash: 'sha256:1a9e475aa001cd86b2502f76564c1f8afa9f889d585fdcaf8c01ed33135ac80f'}
+  - {seq: 1, role: markers, filename: assets/KR3eb056_001-jc.markers.yaml, hash: 'sha256:849f356227389fb2d47331ed70486a342555188b78b61eaf4107ebc3a8c51764'}
+  - {seq: 2, role: markers, filename: assets/KR3eb056_002-jc.markers.yaml, hash: 'sha256:8235b1ca903f598bc6ecf064d285f7e403620194662fd2b1a6b40026a3617fb1'}
+  - {seq: 3, role: markers, filename: assets/KR3eb056_003-jc.markers.yaml, hash: 'sha256:f54563f95b3aff1c5d3d00c368312addf925d7b0682af2ec1c96dd98f97f9ae4'}
+  - {seq: 4, role: markers, filename: assets/KR3eb056_004-jc.markers.yaml, hash: 'sha256:d6a2477bd45ade84520f3460fa9fb69ab4143486e26bdd096776919561520a73'}
+  - {seq: 5, role: markers, filename: assets/KR3eb056_005-jc.markers.yaml, hash: 'sha256:63b86453d6b07676a9c6df40330536c48c682af3739f3d2f76452d3e3ee321a4'}
+  - {seq: 6, role: markers, filename: assets/KR3eb056_006-jc.markers.yaml, hash: 'sha256:6f4897ed8ff83ccfa215c4e27f06309b60905948e3432749871910c7a5c807f2'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eb056_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 698
+  label: 周序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb056_jc_000-d3.h1s1
+    span:
+    - body
+    - 0
+    - 2564
+  label: 緒言
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3eb056_jc_001-d4.h1s1
+    span:
+    - body
+    - 0
+    - 13294
+  label: 卷一
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3eb056_jc_001-d4d2
+    span:
+    - body
+    - 2
+    - 13294
+  label: 第一編辨舌總論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb056_jc_001-d4.d2d2
+    span:
+    - body
+    - 9
+    - 1783
+  label: 第一章辨舌之生理解剖及功用
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eb056_jc_001-d4.d2.d2d2
+    span:
+    - body
+    - 22
+    - 195
+  label: 第一節舌之構造
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3eb056_jc_001-d4.d2.d2d3
+    span:
+    - body
+    - 195
+    - 317
+  label: 第二節舌之乳頭
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3eb056_jc_001-d4.d2.d2d4
+    span:
+    - body
+    - 317
+    - 339
+  label: 第三節舌之脈管
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3eb056_jc_001-d4.d2.d2d5
+    span:
+    - body
+    - 339
+    - 557
+  label: 第四節舌之腦氣筋
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3eb056_jc_001-d4.d2.d2d6
+    span:
+    - body
+    - 557
+    - 609
+  label: 第五節舌之骨與舌根
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3eb056_jc_001-d4.d2.d2d7
+    span:
+    - body
+    - 609
+    - 858
+  label: 第六節舌之細胞與神經
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3eb056_jc_001-d4.d2.d2d8
+    span:
+    - body
+    - 858
+    - 1232
+  label: 第七節舌之唾液腺
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3eb056_jc_001-d4.d2.d2d9
+    span:
+    - body
+    - 1232
+    - 1783
+  label: 第八節舌之功用
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3eb056_jc_001-d4.d2d3
+    span:
+    - body
+    - 1783
+    - 4391
+  label: 第二章辨舌之味覺神經之機能
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eb056_jc_001-d4.d2.d3d4
+    span:
+    - body
+    - 2026
+    - 2155
+  label: 第一節味覺神經
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3eb056_jc_001-d4.d2.d3d5
+    span:
+    - body
+    - 2155
+    - 3623
+  label: 第二節神經種類及機能
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3eb056_jc_001-d4.d2.d3d6
+    span:
+    - body
+    - 3623
+    - 4391
+  label: 第三節味覺之錯覺
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3eb056_jc_001-d4.d2d4
+    span:
+    - body
+    - 4391
+    - 6387
+  label: 第三章辨舌審內臟經脈之氣化
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eb056_jc_001-d4.d2.d4d4
+    span:
+    - body
+    - 4802
+    - 5088
+  label: 第一節手少陰心經
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3eb056_jc_001-d4.d2.d4d5
+    span:
+    - body
+    - 5088
+    - 5396
+  label: 第二節足少陰腎經
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3eb056_jc_001-d4.d2.d4d6
+    span:
+    - body
+    - 5396
+    - 5824
+  label: 第三節足太陰脾經
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3eb056_jc_001-d4.d2.d4d7
+    span:
+    - body
+    - 5824
+    - 6087
+  label: 第四節足陽明胃經
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3eb056_jc_001-d4.d2.d4d8
+    span:
+    - body
+    - 6087
+    - 6116
+  label: 第五節足太陽膀胱經
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3eb056_jc_001-d4.d2.d4d9
+    span:
+    - body
+    - 6116
+    - 6152
+  label: 第六節手少陽三焦經
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3eb056_jc_001-d4.d2.d4d10
+    span:
+    - body
+    - 6152
+    - 6387
+  label: 第七節足厥陰肝經
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3eb056_jc_001-d4.d2d5
+    span:
+    - body
+    - 6387
+    - 7362
+  label: 第四章辨舌察臟腑之病理
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eb056_jc_001-d4.d2d6
+    span:
+    - body
+    - 7362
+    - 10087
+  label: 第五章辨舌明體質稟賦之鑑別
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eb056_jc_001-d4.d2.d6d4
+    span:
+    - body
+    - 7434
+    - 7638
+  label: 第一節體格
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3eb056_jc_001-d4.d2.d6d5
+    span:
+    - body
+    - 7638
+    - 10087
+  label: 第二節體質
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3eb056_jc_001-d4.d2d7
+    span:
+    - body
+    - 10087
+    - 11159
+  label: 第六章辨舌質生苔之原理
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eb056_jc_001-d4.d2d8
+    span:
+    - body
+    - 11159
+    - 11870
+  label: 第七章辨舌苔有根無根之鑑別
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eb056_jc_001-d4.d2d9
+    span:
+    - body
+    - 11870
+    - 13294
+  label: 第八章辨舌苔察時溫與伏熱
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3eb056_jc_002-d5.h1s1
+    span:
+    - body
+    - 0
+    - 23858
+  label: 卷二
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3eb056_jc_002-d5d2
+    span:
+    - body
+    - 2
+    - 23858
+  label: 第二編觀舌總綱
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eb056_jc_002-d5.d2d2
+    span:
+    - body
+    - 9
+    - 769
+  label: 第九章觀舌之心法
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3eb056_jc_002-d5.d2d3
+    span:
+    - body
+    - 769
+    - 2973
+  label: 第十章辨舌之形容
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3eb056_jc_002-d5.d2.d3d4
+    span:
+    - body
+    - 890
+    - 1490
+  label: 第一節軟硬
+  type: section
+  level: 4
+- ref:
+    seq: 2
+    marker_id: KR3eb056_jc_002-d5.d2.d3d5
+    span:
+    - body
+    - 1490
+    - 2074
+  label: 第二節脹癟
+  type: section
+  level: 4
+- ref:
+    seq: 2
+    marker_id: KR3eb056_jc_002-d5.d2.d3d6
+    span:
+    - body
+    - 2074
+    - 2446
+  label: 第三節戰痿
+  type: section
+  level: 4
+- ref:
+    seq: 2
+    marker_id: KR3eb056_jc_002-d5.d2.d3d7
+    span:
+    - body
+    - 2446
+    - 2589
+  label: 第四節歪斜
+  type: section
+  level: 4
+- ref:
+    seq: 2
+    marker_id: KR3eb056_jc_002-d5.d2.d3d8
+    span:
+    - body
+    - 2589
+    - 2973
+  label: 第六節吐弄
+  type: section
+  level: 4
+- ref:
+    seq: 2
+    marker_id: KR3eb056_jc_002-d5.d2d4
+    span:
+    - body
+    - 2973
+    - 6206
+  label: 第十一章辨舌之質本
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3eb056_jc_002-d5.d2.d4d4
+    span:
+    - body
+    - 3098
+    - 3915
+  label: 第一節點刺
+  type: section
+  level: 4
+- ref:
+    seq: 2
+    marker_id: KR3eb056_jc_002-d5.d2.d4d5
+    span:
+    - body
+    - 3915
+    - 4330
+  label: 第二節瓣暈
+  type: section
+  level: 4
+- ref:
+    seq: 2
+    marker_id: KR3eb056_jc_002-d5.d2.d4d6
+    span:
+    - body
+    - 4330
+    - 4855
+  label: 第三節星斑
+  type: section
+  level: 4
+- ref:
+    seq: 2
+    marker_id: KR3eb056_jc_002-d5.d2.d4d7
+    span:
+    - body
+    - 4855
+    - 5552
+  label: 第四節裂紋
+  type: section
+  level: 4
+- ref:
+    seq: 2
+    marker_id: KR3eb056_jc_002-d5.d2.d4d8
+    span:
+    - body
+    - 5552
+    - 5737
+  label: 第五節凸凹
+  type: section
+  level: 4
+- ref:
+    seq: 2
+    marker_id: KR3eb056_jc_002-d5.d2.d4d9
+    span:
+    - body
+    - 5737
+    - 6206
+  label: 第六節直橫
+  type: section
+  level: 4
+- ref:
+    seq: 2
+    marker_id: KR3eb056_jc_002-d5.d2d5
+    span:
+    - body
+    - 6206
+    - 7990
+  label: 第十二章辨舌之神氣
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3eb056_jc_002-d5.d2.d5d4
+    span:
+    - body
+    - 6553
+    - 6985
+  label: 第一節淡濃
+  type: section
+  level: 4
+- ref:
+    seq: 2
+    marker_id: KR3eb056_jc_002-d5.d2.d5d5
+    span:
+    - body
+    - 6985
+    - 7322
+  label: 第二節深淺
+  type: section
+  level: 4
+- ref:
+    seq: 2
+    marker_id: KR3eb056_jc_002-d5.d2.d5d6
+    span:
+    - body
+    - 7322
+    - 7533
+  label: 第三節榮枯
+  type: section
+  level: 4
+- ref:
+    seq: 2
+    marker_id: KR3eb056_jc_002-d5.d2.d5d7
+    span:
+    - body
+    - 7533
+    - 7990
+  label: 第四節老嫩
+  type: section
+  level: 4
+- ref:
+    seq: 2
+    marker_id: KR3eb056_jc_002-d5.d2d6
+    span:
+    - body
+    - 7990
+    - 10711
+  label: 第十三章辨舌之津液
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3eb056_jc_002-d5.d2.d6d4
+    span:
+    - body
+    - 8079
+    - 8985
+  label: 第一節潤燥
+  type: section
+  level: 4
+- ref:
+    seq: 2
+    marker_id: KR3eb056_jc_002-d5.d2.d6d5
+    span:
+    - body
+    - 8985
+    - 9807
+  label: 第二節滑澀
+  type: section
+  level: 4
+- ref:
+    seq: 2
+    marker_id: KR3eb056_jc_002-d5.d2.d6d6
+    span:
+    - body
+    - 9807
+    - 10394
+  label: 第三節腐膩
+  type: section
+  level: 4
+- ref:
+    seq: 2
+    marker_id: KR3eb056_jc_002-d5.d2.d6d7
+    span:
+    - body
+    - 10394
+    - 10711
+  label: 第四節糙黏
+  type: section
+  level: 4
+- ref:
+    seq: 2
+    marker_id: KR3eb056_jc_002-d5.d2d7
+    span:
+    - body
+    - 10711
+    - 14084
+  label: 第十四章辨舌之苔垢
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3eb056_jc_002-d5.d2.d7d4
+    span:
+    - body
+    - 10853
+    - 11841
+  label: 第一節常變
+  type: section
+  level: 4
+- ref:
+    seq: 2
+    marker_id: KR3eb056_jc_002-d5.d2.d7d5
+    span:
+    - body
+    - 11841
+    - 12168
+  label: 第二節觸染
+  type: section
+  level: 4
+- ref:
+    seq: 2
+    marker_id: KR3eb056_jc_002-d5.d2.d7d6
+    span:
+    - body
+    - 12168
+    - 13018
+  label: 第三節全偏
+  type: section
+  level: 4
+- ref:
+    seq: 2
+    marker_id: KR3eb056_jc_002-d5.d2.d7d7
+    span:
+    - body
+    - 13018
+    - 13520
+  label: 第四節薄厚
+  type: section
+  level: 4
+- ref:
+    seq: 2
+    marker_id: KR3eb056_jc_002-d5.d2.d7d8
+    span:
+    - body
+    - 13520
+    - 13936
+  label: 第五節化退
+  type: section
+  level: 4
+- ref:
+    seq: 2
+    marker_id: KR3eb056_jc_002-d5.d2.d7d9
+    span:
+    - body
+    - 13936
+    - 14084
+  label: 第六節滯郁
+  type: section
+  level: 4
+- ref:
+    seq: 2
+    marker_id: KR3eb056_jc_002-d5.d2d8
+    span:
+    - body
+    - 14084
+    - 23858
+  label: 第十五章辨舌之顏色
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3eb056_jc_002-d5.d2.d8d4
+    span:
+    - body
+    - 14306
+    - 17143
+  label: 第一節白苔肺經
+  type: section
+  level: 4
+- ref:
+    seq: 2
+    marker_id: KR3eb056_jc_002-d5.d2.d8d5
+    span:
+    - body
+    - 17143
+    - 18221
+  label: 第二節黃苔胃經
+  type: section
+  level: 4
+- ref:
+    seq: 2
+    marker_id: KR3eb056_jc_002-d5.d2.d8d6
+    span:
+    - body
+    - 18221
+    - 18964
+  label: 第三節紅色膽經
+  type: section
+  level: 4
+- ref:
+    seq: 2
+    marker_id: KR3eb056_jc_002-d5.d2.d8d7
+    span:
+    - body
+    - 18964
+    - 20074
+  label: 第四節絳色心經
+  type: section
+  level: 4
+- ref:
+    seq: 2
+    marker_id: KR3eb056_jc_002-d5.d2.d8d8
+    span:
+    - body
+    - 20074
+    - 20672
+  label: 第五節灰色脾經
+  type: section
+  level: 4
+- ref:
+    seq: 2
+    marker_id: KR3eb056_jc_002-d5.d2.d8d9
+    span:
+    - body
+    - 20672
+    - 22395
+  label: 第六節黑色脾經
+  type: section
+  level: 4
+- ref:
+    seq: 2
+    marker_id: KR3eb056_jc_002-d5.d2.d8d10
+    span:
+    - body
+    - 22395
+    - 23234
+  label: 第七節紫色腎經
+  type: section
+  level: 4
+- ref:
+    seq: 2
+    marker_id: KR3eb056_jc_002-d5.d2.d8d11
+    span:
+    - body
+    - 23234
+    - 23328
+  label: 第八節焦紫肝經
+  type: section
+  level: 4
+- ref:
+    seq: 2
+    marker_id: KR3eb056_jc_002-d5.d2.d8d12
+    span:
+    - body
+    - 23328
+    - 23518
+  label: 第九節青滑肝經
+  type: section
+  level: 4
+- ref:
+    seq: 2
+    marker_id: KR3eb056_jc_002-d5.d2.d8d13
+    span:
+    - body
+    - 23518
+    - 23858
+  label: 第十節藍色肝經
+  type: section
+  level: 4
+- ref:
+    seq: 3
+    marker_id: KR3eb056_jc_003-d6.h1s1
+    span:
+    - body
+    - 0
+    - 18611
+  label: 卷三
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3eb056_jc_003-d6d2
+    span:
+    - body
+    - 2
+    - 18611
+  label: 第三編辨舌證治
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb056_jc_003-d6.d2d2
+    span:
+    - body
+    - 9
+    - 719
+  label: 第十六章仲景察舌辨證法
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eb056_jc_003-d6.d2d3
+    span:
+    - body
+    - 719
+    - 3179
+  label: 第十七章胡玉海察舌辨證法
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eb056_jc_003-d6.d2d4
+    span:
+    - body
+    - 3179
+    - 8316
+  label: 第十八章吳坤安察舌辨證歌
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eb056_jc_003-d6.d2d5
+    span:
+    - body
+    - 8316
+    - 11421
+  label: 第十九章察舌辨證之鑑別
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eb056_jc_003-d6.d2.d5d4
+    span:
+    - body
+    - 8471
+    - 9115
+  label: 第一節虛實
+  type: section
+  level: 4
+- ref:
+    seq: 3
+    marker_id: KR3eb056_jc_003-d6.d2.d5d5
+    span:
+    - body
+    - 9115
+    - 9658
+  label: 第二節寒熱
+  type: section
+  level: 4
+- ref:
+    seq: 3
+    marker_id: KR3eb056_jc_003-d6.d2.d5d6
+    span:
+    - body
+    - 9658
+    - 10326
+  label: 第三節真假
+  type: section
+  level: 4
+- ref:
+    seq: 3
+    marker_id: KR3eb056_jc_003-d6.d2.d5d7
+    span:
+    - body
+    - 10326
+    - 10475
+  label: 第四節陰陽
+  type: section
+  level: 4
+- ref:
+    seq: 3
+    marker_id: KR3eb056_jc_003-d6.d2.d5d8
+    span:
+    - body
+    - 10475
+    - 10839
+  label: 第五節順逆
+  type: section
+  level: 4
+- ref:
+    seq: 3
+    marker_id: KR3eb056_jc_003-d6.d2.d5d9
+    span:
+    - body
+    - 10839
+    - 11421
+  label: 第六節生死
+  type: section
+  level: 4
+- ref:
+    seq: 3
+    marker_id: KR3eb056_jc_003-d6.d2d6
+    span:
+    - body
+    - 11421
+    - 16811
+  label: 第二十章舌病證治之鑑別
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eb056_jc_003-d6.d2.d6d4
+    span:
+    - body
+    - 11758
+    - 15059
+  label: 甲舌之體質病
+  type: section
+  level: 4
+- ref:
+    seq: 3
+    marker_id: KR3eb056_jc_003-d6.d2.d6d5
+    span:
+    - body
+    - 15059
+    - 16811
+  label: 乙舌之功用病
+  type: section
+  level: 4
+- ref:
+    seq: 3
+    marker_id: KR3eb056_jc_003-d6.d2d7
+    span:
+    - body
+    - 16811
+    - 18611
+  label: 第二十一章辨舌病之治療法
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eb056_jc_003-d6.d2.d7d4
+    span:
+    - body
+    - 16861
+    - 17604
+  label: 第一節舌病簡效方
+  type: section
+  level: 4
+- ref:
+    seq: 3
+    marker_id: KR3eb056_jc_003-d6.d2.d7d5
+    span:
+    - body
+    - 17604
+    - 18611
+  label: 第二節舌病針灸法
+  type: section
+  level: 4
+- ref:
+    seq: 4
+    marker_id: KR3eb056_jc_004-d7.h1s1
+    span:
+    - body
+    - 0
+    - 21412
+  label: 卷四
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3eb056_jc_004-d7d2
+    span:
+    - body
+    - 2
+    - 21412
+  label: 第四編辨舌各論
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eb056_jc_004-d7.d2d2
+    span:
+    - body
+    - 9
+    - 7469
+  label: 第二十二章白苔類診斷鑑別法
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3eb056_jc_004-d7.d2.d2d2
+    span:
+    - body
+    - 22
+    - 1174
+  label: 白苔總論一
+  type: section
+  level: 4
+- ref:
+    seq: 4
+    marker_id: KR3eb056_jc_004-d7.d2.d2d3
+    span:
+    - body
+    - 1174
+    - 7469
+  label: 白苔證治圖說
+  type: section
+  level: 4
+- ref:
+    seq: 4
+    marker_id: KR3eb056_jc_004-d7.d2d3
+    span:
+    - body
+    - 7469
+    - 13655
+  label: 第二十三章黃苔類診斷鑑別法
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3eb056_jc_004-d7.d2.d3d2
+    span:
+    - body
+    - 7482
+    - 8195
+  label: 黃苔總論二
+  type: section
+  level: 4
+- ref:
+    seq: 4
+    marker_id: KR3eb056_jc_004-d7.d2.d3d3
+    span:
+    - body
+    - 8195
+    - 13655
+  label: 黃苔證治圖說
+  type: section
+  level: 4
+- ref:
+    seq: 4
+    marker_id: KR3eb056_jc_004-d7.d2d4
+    span:
+    - body
+    - 13655
+    - 21412
+  label: 第二十四章黑苔類診斷鑑別法
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3eb056_jc_004-d7.d2.d4d2
+    span:
+    - body
+    - 13668
+    - 14521
+  label: 黑苔總論三
+  type: section
+  level: 4
+- ref:
+    seq: 4
+    marker_id: KR3eb056_jc_004-d7.d2.d4d3
+    span:
+    - body
+    - 14521
+    - 21412
+  label: 黑苔證治圖說
+  type: section
+  level: 4
+- ref:
+    seq: 5
+    marker_id: KR3eb056_jc_005-d8.h1s1
+    span:
+    - body
+    - 0
+    - 16408
+  label: 卷五
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3eb056_jc_005-d8d2
+    span:
+    - body
+    - 2
+    - 3965
+  label: 第二十五章灰舌類診斷鑑別法
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3eb056_jc_005-d8.d2d2
+    span:
+    - body
+    - 15
+    - 517
+  label: 灰舌總論四
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3eb056_jc_005-d8.d2d3
+    span:
+    - body
+    - 517
+    - 3456
+  label: 灰舌證治圖說
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3eb056_jc_005-d8.d2d4
+    span:
+    - body
+    - 3456
+    - 3800
+  label: 附灰黑裂紋舌無圖
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3eb056_jc_005-d8.d2d5
+    span:
+    - body
+    - 3800
+    - 3965
+  label: 附孕婦卷短舌無圖
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3eb056_jc_005-d8d3
+    span:
+    - body
+    - 3965
+    - 9842
+  label: 第二十六章紅舌類診斷鑑別法
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3eb056_jc_005-d8.d3d2
+    span:
+    - body
+    - 3978
+    - 4646
+  label: 紅舌總論五
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3eb056_jc_005-d8.d3d3
+    span:
+    - body
+    - 4646
+    - 9842
+  label: 紅舌證治圖說
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3eb056_jc_005-d8d4
+    span:
+    - body
+    - 9842
+    - 13101
+  label: 第二十七章紫舌類診斷鑑別法
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3eb056_jc_005-d8.d4d2
+    span:
+    - body
+    - 9855
+    - 10237
+  label: 紫舌總論六
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3eb056_jc_005-d8.d4d3
+    span:
+    - body
+    - 10237
+    - 13101
+  label: 紫舌證治圖說
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3eb056_jc_005-d8d5
+    span:
+    - body
+    - 13101
+    - 13963
+  label: 第二十八章黴醬色舌類診斷鑑別法
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3eb056_jc_005-d8.d5d2
+    span:
+    - body
+    - 13116
+    - 13504
+  label: 黴醬色舌總論七
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3eb056_jc_005-d8.d5d3
+    span:
+    - body
+    - 13504
+    - 13963
+  label: 黴醬色舌證治圖說
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3eb056_jc_005-d8d6
+    span:
+    - body
+    - 13963
+    - 16408
+  label: 第二十九章藍色舌類診斷鑑別法
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3eb056_jc_005-d8.d6d2
+    span:
+    - body
+    - 13977
+    - 14519
+  label: 藍色舌總論八
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3eb056_jc_005-d8.d6d3
+    span:
+    - body
+    - 14519
+    - 15075
+  label: 藍色舌證治圖說
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3eb056_jc_005-d8.d6d4
+    span:
+    - body
+    - 15075
+    - 16408
+  label: 附孕婦辨舌通論
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3eb056_jc_006-d9.h1s1
+    span:
+    - body
+    - 0
+    - 20103
+  label: 卷六
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3eb056_jc_006-d9d2
+    span:
+    - body
+    - 2
+    - 20103
+  label: 第五編雜論方案
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3eb056_jc_006-d9.d2d2
+    span:
+    - body
+    - 9
+    - 7725
+  label: 第三十章辨舌雜論補遺
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3eb056_jc_006-d9.d2.d2d4
+    span:
+    - body
+    - 106
+    - 723
+  label: 傷寒辨舌總論一
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR3eb056_jc_006-d9.d2.d2d5
+    span:
+    - body
+    - 723
+    - 2536
+  label: 傷寒辨舌秘法二
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR3eb056_jc_006-d9.d2.d2d6
+    span:
+    - body
+    - 2536
+    - 2931
+  label: 舌病之原三
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR3eb056_jc_006-d9.d2.d2d7
+    span:
+    - body
+    - 2931
+    - 3138
+  label: 舌苔辨四
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR3eb056_jc_006-d9.d2.d2d8
+    span:
+    - body
+    - 3138
+    - 3743
+  label: 舌色辨五
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR3eb056_jc_006-d9.d2.d2d9
+    span:
+    - body
+    - 3743
+    - 4560
+  label: 辨舌法六
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR3eb056_jc_006-d9.d2.d2d10
+    span:
+    - body
+    - 4560
+    - 5109
+  label: 舌苔辨寒熱七
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR3eb056_jc_006-d9.d2.d2d11
+    span:
+    - body
+    - 5109
+    - 5265
+  label: 舌色辨吉凶八
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR3eb056_jc_006-d9.d2.d2d12
+    span:
+    - body
+    - 5265
+    - 6905
+  label: 溫熱辨舌心法九
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR3eb056_jc_006-d9.d2.d2d13
+    span:
+    - body
+    - 6905
+    - 7725
+  label: 舌質舌苔辨十
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR3eb056_jc_006-d9.d2d3
+    span:
+    - body
+    - 7725
+    - 11805
+  label: 第三十一章察舌辨證之醫案
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3eb056_jc_006-d9.d2.d3d2
+    span:
+    - body
+    - 7737
+    - 8983
+  label: 黑苔醫案八則
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR3eb056_jc_006-d9.d2.d3d3
+    span:
+    - body
+    - 8983
+    - 9284
+  label: 紅舌醫案二則
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR3eb056_jc_006-d9.d2.d3d4
+    span:
+    - body
+    - 9284
+    - 9873
+  label: 紫疱舌醫案二則
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR3eb056_jc_006-d9.d2.d3d5
+    span:
+    - body
+    - 9873
+    - 10079
+  label: 人字紋舌醫案二則
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR3eb056_jc_006-d9.d2.d3d6
+    span:
+    - body
+    - 10079
+    - 10258
+  label: 藍舌醫案二則
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR3eb056_jc_006-d9.d2.d3d7
+    span:
+    - body
+    - 10258
+    - 10430
+  label: 舌強醫案四則
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR3eb056_jc_006-d9.d2.d3d8
+    span:
+    - body
+    - 10430
+    - 10867
+  label: 舌腫醫案五則
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR3eb056_jc_006-d9.d2.d3d9
+    span:
+    - body
+    - 10867
+    - 11191
+  label: 舌出醫案四則
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR3eb056_jc_006-d9.d2.d3d10
+    span:
+    - body
+    - 11191
+    - 11243
+  label: 舌縮醫案一則
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR3eb056_jc_006-d9.d2.d3d11
+    span:
+    - body
+    - 11243
+    - 11524
+  label: 舌爛醫案三則
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR3eb056_jc_006-d9.d2.d3d12
+    span:
+    - body
+    - 11524
+    - 11578
+  label: 舌痛醫案一則
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR3eb056_jc_006-d9.d2.d3d13
+    span:
+    - body
+    - 11578
+    - 11805
+  label: 舌斷醫案二則
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR3eb056_jc_006-d9.d2d4
+    span:
+    - body
+    - 11805
+    - 20103
+  label: 第三十二章辨舌證治要方
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3eb056_jc_006-d9.d2.d4d4
+    span:
+    - body
+    - 11912
+    - 12923
+  label: 第一節發表之劑
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR3eb056_jc_006-d9.d2.d4d5
+    span:
+    - body
+    - 12923
+    - 13901
+  label: 第二節攻裡之劑
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR3eb056_jc_006-d9.d2.d4d6
+    span:
+    - body
+    - 13901
+    - 15767
+  label: 第三節和解之劑
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR3eb056_jc_006-d9.d2.d4d7
+    span:
+    - body
+    - 15767
+    - 16262
+  label: 第四節化利之劑
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR3eb056_jc_006-d9.d2.d4d8
+    span:
+    - body
+    - 16262
+    - 17676
+  label: 第五節清涼之劑
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR3eb056_jc_006-d9.d2.d4d9
+    span:
+    - body
+    - 17676
+    - 18092
+  label: 第六節溫散之劑
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR3eb056_jc_006-d9.d2.d4d10
+    span:
+    - body
+    - 18092
+    - 18878
+  label: 第七節補益之劑
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR3eb056_jc_006-d9.d2.d4d11
+    span:
+    - body
+    - 18878
+    - 20058
+  label: 第八節雜治之劑
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR3eb056_jc_006-d9.d2.d4d12
+    span:
+    - body
+    - 20058
+    - 20103
+  label: 附中藥計量新舊對照換算表
+  type: section
+  level: 4
+hash: sha256:730af6f48a074c05b0541e923cd292bf9fba146a3c7b835b4f5e42d23bc83dcf
